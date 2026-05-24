@@ -56,9 +56,29 @@ For each circuit the tool produces five figures:
 - **Speed profiles** — speed traces for low, optimal, and high downforce configs
 - **Speed heatmap** — circuit coloured by speed at the optimal configuration
 
-<!-- After pushing to GitHub, add your figures to an assets/ folder and embed them here like so: -->
-<!-- ![Monza Circuit Map](assets/italian_2023_circuit_map.png) -->
-<!-- ![Monaco Speed Heatmap](assets/monaco_2023_speed_heatmap.png) -->
+### Monza — Aero Sensitivity Map
+![Monza Circuit Map](assets/italian_2023_circuit_map.png)
+
+### Monza — Speed Profiles
+![Monza Speed Profiles](assets/italian_2023_speed_profiles.png)
+
+### Monaco — Speed Heatmap
+![Monaco Speed Heatmap](assets/monaco_2023_speed_heatmap.png)
+
+### Monza — Lap Time vs CL
+![Monza Lap Time](assets/italian_2023_lap_time.png)
+
+### Monaco — Aero Sensitivity Map
+![Monaco Circuit Map](assets/monaco_2023_circuit_map.png)
+
+### Monaco — Speed Profiles
+![Monaco Speed Profiles](assets/monaco_2023_speed_profiles.png)
+
+### Monaco — Lap Time vs CL
+![Monaco Lap Time](assets/monaco_2023_lap_time_vs_CL.png)
+
+### Monaco — Dashboard
+![Monaco Dashboard](assets/monaco_2023_dashboard.png)
 
 ---
 
