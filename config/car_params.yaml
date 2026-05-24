@@ -1,0 +1,14 @@
+# F1 Car Parameters
+mass_kg: 798
+frontal_area_m2: 1.0
+peak_power_kw: 560
+drivetrain_efficiency: 0.92
+tyre_friction_coeff: 1.6
+friction_ellipse_ratio: 0.9
+CD0: 0.7
+k: 0.08
+CL_min: 1.5
+CL_max: 7.0
+CL_steps: 35
+rolling_resistance_coeff: 0.015
+air_density_kg_m3: 1.225
