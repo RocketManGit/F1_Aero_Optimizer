@@ -63,7 +63,7 @@ For each circuit the tool produces five figures:
 ![Monza Speed Profiles](assets/italian_2023_speed_profiles.png)
 
 ### Monza — Speed Heatmap
-![Monza Speed Heatmap](assets/monza_2023_speed_heatmap.png)
+![Monza Speed Heatmap](assets/italian_2023_speed_heatmap.png)
 
 ### Monza — Lap Time vs CL
 ![Monza Lap Time](assets/italian_2023_lap_time.png)
