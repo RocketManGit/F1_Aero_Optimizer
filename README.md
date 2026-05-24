@@ -66,7 +66,7 @@ For each circuit the tool produces five figures:
 ![Monza Speed Heatmap](assets/italian_2023_speed_heatmap.png)
 
 ### Monza — Lap Time vs CL
-![Monza Lap Time](assets/italian_2023_lap_time.png)
+![Monza Lap Time](assets/italian_2023_lap_time_vs_CL.png)
 
 ### Monaco — Aero Sensitivity Map
 ![Monaco Circuit Map](assets/monaco_2023_circuit_map.png)
