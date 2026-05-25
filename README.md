@@ -46,6 +46,7 @@ The model correctly reproduces the known aero characteristics of contrasting cir
 Low DF = low downforce = flat wings = less drag = faster on straights
 High DF = high downforce = steep wings = more grip = faster in corners
 
+CL range chosen for optimization: 1.5 -> 7.0
 
 Low→High DF Delta is the lap time difference between running the lowest possible downforce setup and the highest possible downforce setup on a given circuit.
 
