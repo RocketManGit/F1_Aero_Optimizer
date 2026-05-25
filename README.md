@@ -97,7 +97,13 @@ For each circuit the tool produces five figures:
 ![Monaco Lap Time](assets/monaco_2023_lap_time_vs_CL.png)
 
 ### Monaco — Aero Sensitivity Map
-*Unlike Monza, Monaco is almost entirely red — the circuit is one continuous sequence of corners with no real straights. This pushes the optimal configuration to maximum downforce.*
+*The colour encodes local track curvature — how tightly the road bends at each point. 
+Red = very tight corner (high downforce demand). Blue = straight or gentle curve 
+(drag-sensitive). Monaco appears mostly blue because most of its corners are medium-radius 
+sweeping bends rather than ultra-tight hairpins — the single red dot at the top is the 
+Fairmont Hairpin, the tightest corner on the circuit. Despite the blue appearance, Monaco's 
+high corner fraction (52%) means the car spends far more time cornering than at Monza, 
+which is what drives the high optimal CL of 5.06.*
 
 ![Monaco Circuit Map](assets/monaco_2023_circuit_map.png)
 
