@@ -42,6 +42,17 @@ The model correctly reproduces the known aero characteristics of contrasting cir
 | Monza (Italian GP) | 18.9% | 1.99 | +17.4s |
 | Monaco | 52.0% | 5.06 | -3.5s |
 
+
+Low DF = low downforce = flat wings = less drag = faster on straights
+High DF = high downforce = steep wings = more grip = faster in corners
+
+
+Low→High DF Delta is the lap time difference between running the lowest possible downforce setup and the highest possible downforce setup on a given circuit.
+
+For Monza it was +17.4s — meaning the highest downforce setup is 17.4 seconds slower per lap than the lowest. That's a massive penalty, reflecting how brutally drag-sensitive Monza is.
+
+For Monaco it was -3.5s — meaning the highest downforce setup is actually 3.5 seconds faster than the lowest. The negative sign means more downforce helps. The magnitude is smaller than Monza's because even at Monaco there are a few short straights where drag still costs something.
+
 Monza's long straights push the optimum to minimum downforce. Monaco's near-constant cornering pushes it to maximum. The model recovers this result purely from circuit geometry and physics — no hardcoding.
 
 ---
