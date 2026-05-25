@@ -64,9 +64,13 @@ For each circuit the tool produces five figures:
 ![Monza Lap Time](assets/italian_2023_lap_time_vs_CL.png)
 
 ### Monza — Aero Sensitivity Map
+*Blue sections are drag-sensitive (straights where top speed matters most). Red sections are downforce-sensitive (corners where grip matters most). Monza is almost entirely blue, reflecting its long straights and minimal cornering — which is why it demands the lowest downforce setup of the season.*
+
 ![Monza Circuit Map](assets/italian_2023_circuit_map.png)
 
 ### Monza — Speed Profiles
+*Three wing configurations compared around the lap. Low DF (blue) = minimum wing angle, least drag, highest top speed. High DF (orange) = maximum wing angle, most downforce, lowest top speed. Optimal (green) = the configuration that minimises total lap time. At Monza the optimal closely follows the low DF line — confirming the circuit rewards minimising drag above all else.*
+
 ![Monza Speed Profiles](assets/italian_2023_speed_profiles.png)
 
 ### Monza — Speed Heatmap
@@ -81,9 +85,13 @@ For each circuit the tool produces five figures:
 ![Monaco Lap Time](assets/monaco_2023_lap_time_vs_CL.png)
 
 ### Monaco — Aero Sensitivity Map
+*Unlike Monza, Monaco is almost entirely red — the circuit is one continuous sequence of corners with no real straights. This pushes the optimal configuration to maximum downforce.*
+
 ![Monaco Circuit Map](assets/monaco_2023_circuit_map.png)
 
 ### Monaco — Speed Profiles
+*At Monaco the three configurations diverge in the corners rather than on straights. The high DF car corners faster, and since Monaco is almost entirely corners, it wins comfortably despite its drag penalty.*
+
 ![Monaco Speed Profiles](assets/monaco_2023_speed_profiles.png)
 
 ### Monaco — Speed Heatmap
